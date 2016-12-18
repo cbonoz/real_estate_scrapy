@@ -1,1 +1,451 @@
-address	zip	price	sell_date	sq_feet	beds	baths
+address	zip	city	state	price	sq_feet	beds	baths	sell_date
+2601 12th Ave W	98119	Seattle	WA	1999950	3731	5	3	December 16, 2016
+2215 NW 93rd St	98117	Seattle	WA	875000	2720	4	2	December 16, 2016
+3053 Alki Ave SW Apt B	98116	Seattle	WA	715000	1249	2	1+	December 16, 2016
+5440 Leary Ave NW Unit 503	98107	Seattle	WA	458000	873	1	1	December 16, 2016
+1312 S Shelton St	98108	Seattle	WA	425000	1940	4	2	December 16, 2016
+3281 31st Ave SW	98126	Seattle	WA	607500	1876	3	2	December 16, 2016
+14618 35th Ave NE	98155	Lake Forest Park	WA	595545	1686	3	2	December 16, 2016
+6557 39th Ave NE	98115	Seattle	WA	700000	2380	4	2	December 16, 2016
+16021 Dayton Ave N	98133	Shoreline	WA	685000	2089	5	3	December 16, 2016
+2808 NW 56th St # B	98107	Seattle	WA	657000	1360	2	2+	December 16, 2016
+10705 22nd Ave SW	98146	Seattle	WA	500000	2020	4	2	December 16, 2016
+4031 39th Ave S	98118	Seattle	WA	749000	1975	3	2	December 16, 2016
+909 5th Ave Unit 604	98164	Seattle	WA	679000	1208	1	1	December 16, 2016
+8719 16th Ave SW	98106	Seattle	WA	469950	1368	3	2	December 16, 2016
+13717 Linden Ave N Apt 118	98133	Seattle	WA	163000	693	1	1	December 16, 2016
+214 NE 90th St	98115	Seattle	WA	650000	2060	4	2+	December 16, 2016
+6544 24th Ave NW	98117	Seattle	WA	710000	1923	3	2	December 16, 2016
+217 24th Ave E	98112	Seattle	WA	615000	1160	2	2	December 16, 2016
+6509 Ellis Ave S # B	98108	Seattle	WA	560000	1401	3	2	December 16, 2016
+6039 3rd Ave NW	98107	Seattle	WA	1300000	3640	4	3	December 16, 2016
+2117 N 155th St	98133	Shoreline	WA	395000	880	2	1	December 16, 2016
+2216 W Emerson St	98199	Seattle	WA	673950	1690	3	2	December 16, 2016
+4800 Fauntleroy Way SW Apt 205	98116	Seattle	WA	276000	787	2	1	December 16, 2016
+1308 6th Ave N Apt 302	98109	Seattle	WA	515000	850	2	2	December 16, 2016
+12526 2nd Ave NE	98125	Seattle	WA	442000	1590	3	1+	December 16, 2016
+1424 Belmont Ave Apt 361	98122	Seattle	WA	399000	650	1	1	December 16, 2016
+583 Battery St Apt 605	98121	Seattle	WA	820000	1186	2	2	December 16, 2016
+26510 19th Pl S	98198	Des Moines	WA	245000	1208	0	1	December 16, 2016
+721 S Homer St	98108	Seattle	WA	575000	1570	3	2	December 16, 2016
+12320 5th Ave SW	98146	Seattle	WA	425000	1540	3	2	December 16, 2016
+19855 25th Ave NE Apt 311	98155	Shoreline	WA	225000	982	2	1	December 16, 2016
+2214 W Viewmont Way W	98199	Seattle	WA	1535000	4400	3	2	December 15, 2016
+3214 8th Ave W	98119	Seattle	WA	1375000	3410	6	4+	December 15, 2016
+5439 Lake Washington Blvd S	98118	Seattle	WA	1298000	3237	4	3	December 15, 2016
+4536 Stanford Ave NE	98105	Seattle	WA	1085000	2110	4	3	December 15, 2016
+2032 NW 61st St	98107	Seattle	WA	800000	1750	3	2	December 15, 2016
+611 22nd Ave	98122	Seattle	WA	774995	1820	3	2	December 15, 2016
+2519 NW North Beach Dr	98117	Seattle	WA	665000	2080	4	3	December 15, 2016
+1310 SW Trenton St	98106	Seattle	WA	535000	2025	4	2+	December 15, 2016
+7935 4th Ave SW	98106	Seattle	WA	449950	1876	3	2+	December 15, 2016
+909 5th Ave Unit 1203	98164	Seattle	WA	560000	979	1	1+	December 15, 2016
+1857 NE 172nd St	98155	Shoreline	WA	675000	2236	6	3	December 15, 2016
+1825 N 199th St	98133	Shoreline	WA	645000	1680	4	2	December 15, 2016
+11409 Glendale Way S	98168	Seattle	WA	360000	2020	4	1+	December 15, 2016
+13543 Burke Ave N	98133	Seattle	WA	506206	1490	3	1	December 15, 2016
+2020 McGilvra Blvd E	98112	Seattle	WA	1179000	2190	4	2	December 15, 2016
+4115 Beach Dr SW Apt D	98116	Seattle	WA	885000	1483	2	2+	December 15, 2016
+14608 35th Ave NE Lot 2	98155	Lake Forest Park	WA	560790	1560	3	3	December 15, 2016
+13415 22nd Ln S	98168	Seatac	WA	267000	1040	3	2	December 15, 2016
+17920 48th Ave S	98188	Seatac	WA	307000	1270	2	1	December 15, 2016
+99 Union St Unit 1201	98101	Seattle	WA	2875000	2082	2	2+	December 15, 2016
+2336 22nd Ave S	98144	Seattle	WA	695000	2300	5	3	December 15, 2016
+2205 44th Ave SW	98116	Seattle	WA	580000	830	2	1	December 15, 2016
+3639 Courtland Pl S # A	98144	Seattle	WA	459000	1250	3	3	December 15, 2016
+530 Broadway E Apt 321	98102	Seattle	WA	421000	499	1	1	December 15, 2016
+3242 S 162nd St	98188	Seatac	WA	308500	1070	3	2	December 15, 2016
+5034 Puget Blvd SW	98106	Seattle	WA	829950	3602	5	4+	December 15, 2016
+4111 SW Oregon St	98116	Seattle	WA	620000	1480	2	2	December 15, 2016
+6242 40th Ave NE	98115	Seattle	WA	1250000	2557	4	2+	December 14, 2016
+7729 S 115th Pl	98178	Seattle	WA	599900	3180	4	3	December 14, 2016
+3216 18th Ave S	98144	Seattle	WA	584000	1620	4	2	December 14, 2016
+2125 1st Ave Apt 1505	98121	Seattle	WA	570000	700	0	1	December 14, 2016
+2858 NW 59th St	98107	Seattle	WA	1490000	4667	5	4	December 14, 2016
+148 N 81st St	98103	Seattle	WA	635000	2240	4	2	December 14, 2016
+10501 8th Ave NE Apt 334	98125	Seattle	WA	185500	744	1	1	December 14, 2016
+504 NW 196th Pl	98177	Shoreline	WA	620000	2330	5	2	December 14, 2016
+2540 Dexter Ave N	98109	Seattle	WA	1000000	2700	3	2+	December 14, 2016
+2032 S Lane St	98144	Seattle	WA	630000	2030	4	2	December 14, 2016
+1707 NW 63rd St # A	98107	Seattle	WA	716500	1539	3	2	December 14, 2016
+1014 E Roy St Apt 36	98102	Seattle	WA	520000	1216	2	1	December 14, 2016
+615 E Pike St Apt 304	98122	Seattle	WA	697000	1490	2	2+	December 14, 2016
+6921 24th Ave SW	98106	Seattle	WA	350000	1200	3	2	December 14, 2016
+611 Highland Dr Apt 203	98109	Seattle	WA	303000	688	1	1	December 14, 2016
+1505 15th Ave S # B	98144	Seattle	WA	544950	1273	2	2	December 14, 2016
+12115 12th Ave NW	98177	Seattle	WA	1430750				December 14, 2016
+139 56th Pl S	98168	Tukwila	WA	30000				December 14, 2016
+1607 S Hanford St	98144	Seattle	WA	567000	1360	2	1	December 13, 2016
+8234 17th Ave NE # B	98115	Seattle	WA	560000	1560	3	3	December 13, 2016
+3641 Bagley Ave N	98103	Seattle	WA	1025000	2368	4	2	December 13, 2016
+3742 SW Southern St	98126	Seattle	WA	550000	1120	3	1	December 13, 2016
+2401 S 220th St	98198	Des Moines	WA	375000	1860	3	2	December 13, 2016
+1564 Alki Ave SW Apt 204	98116	Seattle	WA	710000	1569	3	2	December 13, 2016
+16033 8th Ave SW	98166	Burien	WA	315000	1080	4	2	December 13, 2016
+520 NW 200th St	98177	Shoreline	WA	450000	2360	3	2+	December 13, 2016
+18318 3rd Ave NE	98155	Shoreline	WA	751000	1690	4	2	December 13, 2016
+3405 35th Ave S	98144	Seattle	WA	560000	1570	3	2+	December 13, 2016
+2765 S Washington St	98144	Seattle	WA	650000	4140	8	2	December 13, 2016
+2516 12th Ave W	98119	Seattle	WA	757000	2000	3	1+	December 13, 2016
+12016 33rd Ave NE	98125	Seattle	WA	627500	1499	3	3	December 13, 2016
+2720 3rd Ave Apt 505	98121	Seattle	WA	310000	551	0	1	December 13, 2016
+2318 N 38th St	98103	Seattle	WA	854500	2610	5	1+	December 12, 2016
+358 NW Market St	98107	Seattle	WA	550000	1600	3	1+	December 12, 2016
+4035 NE 95th St	98115	Seattle	WA	649950	2470	3	2	December 12, 2016
+5822 7th Ave NW	98107	Seattle	WA	550000	1550	3	1	December 12, 2016
+3545 SW Elmgrove St	98126	Seattle	WA	370000	750	2	1	December 12, 2016
+1743 NE 94th St	98115	Seattle	WA	915000	4900	6	5	December 12, 2016
+4329 NE 56th St	98105	Seattle	WA	692000	1510	2	2	December 12, 2016
+3551 NE 182nd St	98155	Lake Forest Park	WA	630000	2960	4	2+	December 12, 2016
+9227 10th Ave SW	98106	Seattle	WA	450000	2260	4	2	December 12, 2016
+6425 Sand Point Way NE	98115	Seattle	WA	382500	1656	2	2	December 12, 2016
+1612 N 35th St	98103	Seattle	WA	725000	1790	2	2	December 12, 2016
+803 18th Ave	98122	Seattle	WA	735000	1519	2	3	December 12, 2016
+10703 28th Ave SW	98146	Seattle	WA	450000	2000	4	2	December 12, 2016
+2440 Western Ave Apt 715	98121	Seattle	WA	540000	994	2	1	December 12, 2016
+614 NE 76th St	98115	Seattle	WA	505000	1960	2	1	December 12, 2016
+3711 26th Pl W Apt 302	98199	Seattle	WA	265000	856	2	1	December 12, 2016
+3221 NE 200th St	98155	Lake Forest Park	WA	525000	2600	3	2	December 12, 2016
+1132 16th Ave	98122	Seattle	WA	1750000	2750	4	2	December 12, 2016
+7852 Stroud Ave N	98103	Seattle	WA	1550826	2620	6	4	December 12, 2016
+7207 Palatine Ave N	98103	Seattle	WA	1472000	3420	4	4	December 12, 2016
+1540 30th Ave S	98144	Seattle	WA	1166666	4492			December 12, 2016
+7308 Alonzo Ave NW	98117	Seattle	WA	1100000	2640	3	3+	December 12, 2016
+516 N 82nd St	98103	Seattle	WA	800000	1150	3	1	December 12, 2016
+4806 46th Ave SW	98116	Seattle	WA	777000	1840	3	2	December 12, 2016
+3036 Alki Ave SW Unit A	98116	Seattle	WA	769000	1540	2	3	December 12, 2016
+2662 39th Ave SW	98116	Seattle	WA	700000	3053	4	2	December 12, 2016
+4750 45th Ave SW	98116	Seattle	WA	685000	2160	3	3	December 12, 2016
+7345 18th Ave NE	98115	Seattle	WA	658025	1440	3	3	December 12, 2016
+588 Bell St Unit 313	98121	Seattle	WA	599000	734	1	1	December 12, 2016
+619 SW Othello St	98106	Seattle	WA	550000	1830	3	2+	December 12, 2016
+2500 Western Ave # 715	98121	Seattle	WA	540000	994	2	1	December 12, 2016
+9225 Ashworth Ave N # A	98103	Seattle	WA	535000	1450	3	2+	December 12, 2016
+6556 Palatine Ave N	98103	Seattle	WA	525000	1400	4	2	December 12, 2016
+614 NE 77th St	98115	Seattle	WA	505000	1090	2	1	December 12, 2016
+1616 Summit Ave Apt N208	98122	Seattle	WA	486000	732	2	1	December 12, 2016
+921 11th Ave E Apt 1	98102	Seattle	WA	475000	663	1	2	December 12, 2016
+3223 SW Raymond St	98126	Seattle	WA	444000	1560	3	2+	December 12, 2016
+4039 S 160th St	98188	Seatac	WA	430000	1130	4	2	December 12, 2016
+410 NE 155th St	98155	Shoreline	WA	395000	1110	4	2	December 12, 2016
+6301 Sand Point Way NE # 8	98115	Seattle	WA	382500	1656	2	2	December 12, 2016
+2244 13th Ave W Apt 414	98119	Seattle	WA	375000	848	1	1	December 12, 2016
+3406 W Government Way Apt 2	98199	Seattle	WA	360000	950	2	2	December 12, 2016
+209 N 39th St Apt 304	98103	Seattle	WA	340000	553	1	1	December 12, 2016
+12239 2nd Ave SW	98146	Seattle	WA	287000	1060	3	2	December 12, 2016
+1624 S Dearborn St	98144	Seattle	WA	275000	1064	2	2	December 12, 2016
+9255 Greenwood Ave N Apt 27	98103	Seattle	WA	235000	894	2	2	December 12, 2016
+4238 S 164th St	98188	Tukwila	WA	209000	1540	3	1	December 12, 2016
+114 SW 116th St # 23	98146	Seattle	WA	169000	887	2	2	December 12, 2016
+10610 Glen Acres Dr S # 618	98168	Seattle	WA	50000	1370	3	2	December 12, 2016
+3414 Fauntleroy Ave SW	98126	Seattle	WA	1100000	3960	4	3	December  9, 2016
+2928 S Ferdinand St	98108	Seattle	WA	839000	2853	5	4+	December  9, 2016
+2911 2nd Ave Unit 1207	98121	Seattle	WA	635000	883	1	1	December  9, 2016
+8760 13th Ave NW	98117	Seattle	WA	600000	1540	3	2	December  9, 2016
+14025 26th Ave NE	98125	Seattle	WA	529500	2160	3	2	December  9, 2016
+18437 8th Ave S	98148	Des Moines	WA	248300	1690	3	1	December  9, 2016
+474 Wheeler St	98109	Seattle	WA	2175000	4790	5	3	December  9, 2016
+20111 30th Ave NE	98155	Shoreline	WA	400000	1534	3	2	December  9, 2016
+2720 3rd Ave Apt 413	98121	Seattle	WA	715000	1224	1	2	December  9, 2016
+8050 11th Ave NW	98117	Seattle	WA	1420000	3754	5	3+	December  9, 2016
+1401 NE 86th St	98115	Seattle	WA	475000	902	2	1	December  9, 2016
+9652 42nd Ave NE	98115	Seattle	WA	1218000	3830	5	3	December  9, 2016
+8021 29th Ave NW	98117	Seattle	WA	715000	2360	2	1	December  9, 2016
+14614 35th Ave NE Lot 3	98155	Lake Forest Park	WA	580000	1560	3	2	December  9, 2016
+2429 NE Northgate Way	98125	Seattle	WA	465000	1830	3	2	December  9, 2016
+2107 5th Ave N	98109	Seattle	WA	1550000	3650	4	3	December  9, 2016
+819 Virginia St Unit 3005	98101	Seattle	WA	568000	738	1	1	December  9, 2016
+3420 15th Ave W Apt 204	98119	Seattle	WA	265000	750	1	1	December  9, 2016
+7320 E Green Lake Dr N Apt 401	98115	Seattle	WA	635000	1368	2	2	December  9, 2016
+3317 SW 112th Pl	98146	Seattle	WA	602000	2370	3	2	December  9, 2016
+1420 Terry Ave Unit 1904	98101	Seattle	WA	544333	750	1	1	December  9, 2016
+8355 11th Ave NW # B	98117	Seattle	WA	540000	1270	3	2+	December  9, 2016
+2331 42nd Ave SW Apt 211	98116	Seattle	WA	235000	570	1	1	December  9, 2016
+3203 23rd Ave W	98199	Seattle	WA	667565	1600	3	2+	December  9, 2016
+7812 3rd Ave NW	98117	Seattle	WA	634030	1670	3	2	December  9, 2016
+8851 Stone Ave N	98103	Seattle	WA	380000	1140	2	1	December  9, 2016
+211 NW 97th St	98117	Seattle	WA	775000	3042	7	3	December  9, 2016
+933 N 98th St Apt B	98103	Seattle	WA	390000	1110	2	1+	December  9, 2016
+2605 S 244th St	98198	Des Moines	WA	335000	2490	4	2+	December  9, 2016
+1914 Ferry Ave SW # 1-9	98116	Seattle	WA	1800000	5208	4	3	December  9, 2016
+4033 NE 87th St	98115	Seattle	WA	748000	1420	4	2	December  9, 2016
+5606 40th Ave SW	98136	Seattle	WA	465000	1500	4	2	December  9, 2016
+8420 Seward Park Ave S	98118	Seattle	WA	380000	720	2	1	December  9, 2016
+2811 14th Ave W Apt 300	98119	Seattle	WA	355000	932	1	1	December  9, 2016
+2111 5th Ave N	98109	Seattle	WA	1425000	3000	6	2	December  9, 2016
+1017 Minor Ave Apt 103	98104	Seattle	WA	345000	759	1	1	December  9, 2016
+1525 NW 57th St Unit 314	98107	Seattle	WA	245000	453	0	1	December  9, 2016
+1522 NW 87th St	98117	Seattle	WA	616000	1658	3	2	December  9, 2016
+737 Olive Way Apt 3004	98101	Seattle	WA	580000	680	1	1	December  9, 2016
+4269 Gilman Ave W # 4268	98199	Seattle	WA	199950	476	0	1	December  9, 2016
+11421 10th Ave SW	98146	Seattle	WA	210000	850	2	1	December  9, 2016
+6030 Ann Arbor Ave NE	98115	Seattle	WA	1875000	5150	5	4	December  9, 2016
+2107 5th Ave N	98109	Seattle	WA	1550000	3650			December  9, 2016
+5609 Kirkwood Pl N	98103	Seattle	WA	1130000	3100	4	3+	December  9, 2016
+2200 Westlake Ave # 1006W	98121	Seattle	WA	975000	1415	2	2	December  9, 2016
+4339 SW Hudson St	98116	Seattle	WA	969000	3260	5	3	December  9, 2016
+14000 Northwood Pl NW	98177	Seattle	WA	925000	2070	3	2	December  9, 2016
+9312 42nd Ave NE	98115	Seattle	WA	895000	2470	4	2	December  9, 2016
+7511 Lakemont Dr NE	98115	Seattle	WA	880000	1260	2	1	December  9, 2016
+15568 10th Ave NE	98155	Shoreline	WA	836000	960	1	1	December  9, 2016
+2008 NW 86th St	98117	Seattle	WA	784500	1850	3	2	December  9, 2016
+811 NW 50th St	98107	Seattle	WA	745610	1689	3	2+	December  9, 2016
+7301 Earl Ave NW	98117	Seattle	WA	745100	2160	3	2	December  9, 2016
+2608 E Pike St	98122	Seattle	WA	730000	1540	3	2	December  9, 2016
+3206 11th Ave W	98119	Seattle	WA	724900	1860	5	3	December  9, 2016
+2603 NW 98th St	98117	Seattle	WA	720000	1710	3	2	December  9, 2016
+2033 2nd Ave Apt 2101	98121	Seattle	WA	699000	773	1	2	December  9, 2016
+12100 Shorewood Dr SW	98146	Burien	WA	645000	2240	5	3	December  9, 2016
+2126 N 137th St	98133	Seattle	WA	630000	2360	4	2+	December  9, 2016
+1906 24th Ave S	98144	Seattle	WA	620000	770	2	2	December  9, 2016
+6850 36th Ave NE	98115	Seattle	WA	620000	1649	4	1+	December  9, 2016
+212 16th Ave # C	98122	Seattle	WA	599950				December  9, 2016
+14614 35th Ave NE	98155	Lake Forest Park	WA	580000	1260	3	3	December  9, 2016
+3214 NE 95th St	98115	Seattle	WA	550000	1900	3	2	December  9, 2016
+4308 SW 100th St	98146	Seattle	WA	541250	2130	4	2	December  9, 2016
+4531 SW Webster St	98136	Seattle	WA	535000	1920	4	1+	December  9, 2016
+3434 14th Ave W	98119	Seattle	WA	530000	2470	4	2	December  9, 2016
+7159 27th Ave SW	98106	Seattle	WA	499900				December  9, 2016
+10020 6th Ave SW	98146	Seattle	WA	499000	1000	2	1	December  9, 2016
+4015 S 126th St	98168	Tukwila	WA	495000	2878	4	2+	December  9, 2016
+507 S 145th St	98168	Burien	WA	457000	3240	3	2+	December  9, 2016
+6516 6th Ave NW	98117	Seattle	WA	417500	590	1	1	December  9, 2016
+5120 S Pearl St	98118	Seattle	WA	400000	1040	3	1	December  9, 2016
+12705 25th Ave NE	98125	Seattle	WA	400000	1780	4	2	December  9, 2016
+20119 30th Ave NE # 20111	98155	Shoreline	WA	400000	1534	3	2	December  9, 2016
+1822 NE 169th St	98155	Shoreline	WA	380000	1140	2	1	December  9, 2016
+839 SW 127th St	98146	Seattle	WA	377000	1790	4	2	December  9, 2016
+711 E Denny Way Unit 204	98122	Seattle	WA	375000	572	1	1+	December  9, 2016
+3104 Western Ave Unit 313	98121	Seattle	WA	370000	506	1	1	December  9, 2016
+2253 Gilman Dr W Apt 303	98119	Seattle	WA	367000	1048	2	1	December  9, 2016
+160 Lee St Apt 306	98109	Seattle	WA	350000	630	1	1	December  9, 2016
+9058 10th Ave SW	98106	Seattle	WA	330000	880	2	1	December  9, 2016
+12814 7th Ave S	98168	Burien	WA	312000	2380	5	2	December  9, 2016
+7418 S 127th St	98178	Seattle	WA	300000	1040	2	1	December  9, 2016
+4114 58th Pl SW Apt 4	98116	Seattle	WA	285000	687	2	1	December  9, 2016
+1504 S 207th St	98198	Seatac	WA	270000	960	3	1	December  9, 2016
+6970 California Ave SW # 306	98136	Seattle	WA	257500	590	1	1	December  9, 2016
+13419 22nd Ln S	98168	Seatac	WA	252000	1200	3	1	December  9, 2016
+9502 Ravenna Ave NE # 306	98115	Seattle	WA	250000	941	2	1	December  9, 2016
+9024 25th Ave SW Unit 201G	98106	Seattle	WA	237000	1016	2	2	December  9, 2016
+937 N 200th St Unit B304	98133	Shoreline	WA	231000	781	2	1	December  9, 2016
+8609 25th Ave SW Unit D	98106	Seattle	WA	215000	970	2	1	December  9, 2016
+19740 1st Pl SW	98166	Normandy Park	WA	53227	2606	5	2+	December  9, 2016
+169 Lynn St	98109	Seattle	WA	1595000	3450	4	3	December  8, 2016
+2020 E Denny Way	98122	Seattle	WA	1500000	3599	7	3	December  8, 2016
+7109 47th Ave SW	98136	Seattle	WA	721001	2020	4	2+	December  8, 2016
+3027 SW Holden St	98126	Seattle	WA	615000	3030	3	2	December  8, 2016
+1900 Alaskan Way Apt 403	98101	Seattle	WA	555000	843	1	1	December  8, 2016
+5627 31st Ave SW	98126	Seattle	WA	460000	1060	3	1+	December  8, 2016
+8231 4th Ave NE	98115	Seattle	WA	670000	1720	3	2	December  8, 2016
+1709 NE 137th St	98125	Seattle	WA	635000	2330	4	2+	December  8, 2016
+13722 27th Ave NE	98125	Seattle	WA	491500	1520	3	2+	December  8, 2016
+13236 1st Ave NW	98177	Seattle	WA	459000	940	2	1	December  8, 2016
+2524 Yale Ave E Apt B	98102	Seattle	WA	695600	1542	3	2	December  8, 2016
+2123 SW 120th St	98146	Burien	WA	618000	3340	3	2+	December  8, 2016
+7710 32nd Ave NE	98115	Seattle	WA	745000	2330	3	2	December  8, 2016
+732 17th Ave	98122	Seattle	WA	435000	800	2	1	December  8, 2016
+5910 NE 60th St	98115	Seattle	WA	888000	2540	4	2	December  8, 2016
+1021 NE 97th St	98115	Seattle	WA	625000	2172	3	2	December  8, 2016
+317 NE 81st St	98115	Seattle	WA	517000	1450	1	1	December  8, 2016
+15030 Greenwood Ave N	98133	Shoreline	WA	355000	1260	2	1	December  8, 2016
+2606 W Raye St	98199	Seattle	WA	925000	2920	5	2	December  8, 2016
+11511 17th Ave NE	98125	Seattle	WA	514000	1070	3	1+	December  8, 2016
+1930 47th Ave SW	98116	Seattle	WA	1480000	4110	3	3+	December  8, 2016
+128 NE 193rd St	98155	Shoreline	WA	397500	960	3	1	December  8, 2016
+11710 Greenwood Ave N Unit C	98133	Seattle	WA	491000	1594	3	2	December  8, 2016
+1180 N 198th St	98133	Shoreline	WA	460000	1410	3	2+	December  8, 2016
+5117 S Roxbury St Unit C	98118	Seattle	WA	318000	1040	3	2+	December  8, 2016
+7021 Sand Point Way NE Unit B406	98115	Seattle	WA	210000	707	1	1	December  8, 2016
+4006 Washington Ave W	98199	Seattle	WA	2000000	4027	4	3	December  8, 2016
+2020 E Denny Way	98122	Seattle	WA	1500000	6558			December  8, 2016
+6311 22nd Ave NE	98115	Seattle	WA	1110000	2330	4	2+	December  8, 2016
+722 3rd Ave N	98109	Seattle	WA	1009900	5715			December  8, 2016
+1110 6th Ave N	98109	Seattle	WA	875000	2920	5	2	December  8, 2016
+107 20th Ave E # B	98112	Seattle	WA	719999	1413	3	2	December  8, 2016
+9752 Evanston Ave N	98103	Seattle	WA	617950	1020	3	1	December  8, 2016
+6507 Ellis Ave S # B	98108	Seattle	WA	560000	5400	8	8	December  8, 2016
+2000 Alaskan Way Apt 403	98121	Seattle	WA	560000	843	1	1	December  8, 2016
+13746 Corliss Ave N	98133	Seattle	WA	540000	2700	3	2	December  8, 2016
+2618 4th Ave N Apt 506	98109	Seattle	WA	522000	1543	3	2	December  8, 2016
+209 NW 143rd St	98177	Seattle	WA	517500	1200	2	1	December  8, 2016
+3916 14th Ave S	98108	Seattle	WA	489000				December  8, 2016
+313 SW 108th St	98146	Seattle	WA	460000	2290	5	3	December  8, 2016
+827 Hiawatha Pl S Apt 508	98144	Seattle	WA	440000	1206	3	2	December  8, 2016
+732 17th Ave # 2	98122	Seattle	WA	435000	800	2	1	December  8, 2016
+15417 21st Ave SW	98166	Burien	WA	430000	2570	3	2+	December  8, 2016
+4950 S 114th St	98178	Tukwila	WA	405000	2280	4	3	December  8, 2016
+16322 25th Ave NE	98155	Shoreline	WA	395000	950	2	2	December  8, 2016
+5989 Rainier Ave S # B	98118	Seattle	WA	386500	1070	3	3	December  8, 2016
+6338 17th Ave SW	98106	Seattle	WA	365000	1730	4	2+	December  8, 2016
+10710 29th Pl SW	98146	Seattle	WA	309000	1740	4	2	December  8, 2016
+13550 37th Ave S Apt 2	98168	Tukwila	WA	125000	829	2	1	December  8, 2016
+20423 10th Pl SW	98166	Normandy Park	WA	1875000	4652	3	4	December  7, 2016
+3210 S Lander St	98144	Seattle	WA	1395000	3380	3	2+	December  7, 2016
+7314 25th Ave NW	98117	Seattle	WA	975000	2190	3	2	December  7, 2016
+820 Blanchard St Unit 1304	98121	Seattle	WA	560000	683	1	1	December  7, 2016
+13604 4th Ave NE	98125	Seattle	WA	450000	2420	4	3	December  7, 2016
+17202 Des Moines Memorial Dr S	98148	Burien	WA	435000	767	2	1	December  7, 2016
+3704 Bagley Ave N	98103	Seattle	WA	1185000	2369	4	2+	December  7, 2016
+1126 18th Ave E	98112	Seattle	WA	1075000	3440	4	2+	December  7, 2016
+2034 NW 61st St	98107	Seattle	WA	834950	2052	3	2	December  7, 2016
+3104 Western Ave Unit 613	98121	Seattle	WA	380000	506	1	1	December  7, 2016
+21202 30th Ave S	98198	Seatac	WA	299900	1330	3	1	December  7, 2016
+11520 22nd Ave NE	98125	Seattle	WA	890500	2230	4	2+	December  7, 2016
+308 35th Ave	98122	Seattle	WA	878500	1660	3	2	December  7, 2016
+7524 12th Ave NW	98117	Seattle	WA	600000	1100	3	1+	December  7, 2016
+8133 Ave SW	98106	Seattle	WA	515000	2111	3	2	December  7, 2016
+3532 NE 88th St	98115	Seattle	WA	676000	1540	3	2	December  7, 2016
+1524 NW 87th St	98117	Seattle	WA	615000	1613	3	2	December  7, 2016
+5539 27th Ave NE	98105	Seattle	WA	580250	1530	2	1	December  7, 2016
+2421 N 75th St	98103	Seattle	WA	838000	2760	3	1+	December  7, 2016
+7011 29th Ave NE	98115	Seattle	WA	648950	1880	4	2	December  7, 2016
+210 W Boston St	98119	Seattle	WA	779100	1100	2	1	December  7, 2016
+11337 5th Ave NE	98125	Seattle	WA	417000	820	2	1	December  7, 2016
+1200 6th Ave N Apt 3	98109	Seattle	WA	295000	688	1	1	December  7, 2016
+5942 California Ave SW Unit A	98136	Seattle	WA	515000	1350	3	2+	December  7, 2016
+19015 Meridian Ave N	98133	Shoreline	WA	340700	1290	4	1+	December  7, 2016
+2421 SW Trenton St Apt 202	98106	Seattle	WA	213000	886	2	2	December  7, 2016
+840 NE 125th St Apt 214	98125	Seattle	WA	234950	782	2	2	December  7, 2016
+6251 60th Ave NE	98115	Seattle	WA	769950	1492	3	2	December  7, 2016
+1743 NW 63rd St	98107	Seattle	WA	850000	1424	4	3	December  7, 2016
+821 18th Ave	98122	Seattle	WA	849900				December  7, 2016
+2034 NW 61st St	98107	Seattle	WA	834950				December  7, 2016
+10660 Lakeside Ave NE	98125	Seattle	WA	740000	1320	2	1	December  7, 2016
+1113 29th Ave S	98144	Seattle	WA	699950	1852	3	2	December  7, 2016
+8626 Vashon Vw SW	98136	Seattle	WA	675000	2400	4	3	December  7, 2016
+6613 Beacon Ave S	98108	Seattle	WA	616800	2110	5	5	December  7, 2016
+8133 8th Ave SW	98106	Seattle	WA	515000	1260	3	1	December  7, 2016
+7155 27th Ave SW	98106	Seattle	WA	499900				December  7, 2016
+6530 Dibble Ave NW	98117	Seattle	WA	475000	1090	3	2	December  7, 2016
+7350 32nd Ave SW	98126	Seattle	WA	468000	1400	3	2	December  7, 2016
+4321 S Dawson St	98118	Seattle	WA	465000	960	2	2	December  7, 2016
+6030 S Roxbury St	98118	Seattle	WA	460000	1090	3	2	December  7, 2016
+15816 27th Ave NE	98155	Shoreline	WA	455000	2480	3	2	December  7, 2016
+11450 21st Ave SW	98146	Burien	WA	445000	2100	3	2	December  7, 2016
+350 N 102nd St	98133	Seattle	WA	441000	800	2	1	December  7, 2016
+2309 Boylston Ave E Apt 302	98102	Seattle	WA	439000	956	2	2	December  7, 2016
+1504 Aurora Ave N Apt 104	98109	Seattle	WA	430000	862	2	1+	December  7, 2016
+19004 47th Ave S	98188	Seatac	WA	405000	2495	4	3	December  7, 2016
+556 N 185th Pl	98133	Shoreline	WA	380000	1590	3	2	December  7, 2016
+2020 NW 195th St Apt 202	98177	Shoreline	WA	355000	1340	2	2	December  7, 2016
+9713 26th Ave SW # 203	98106	Seattle	WA	326500	2162	3	2+	December  7, 2016
+3657 Francis Ave N Unit 403	98103	Seattle	WA	325000	544	1	1	December  7, 2016
+20809 Des Moines Memorial Dr	98198	Des Moines	WA	284950	1620	3	2	December  7, 2016
+15020 Bothell Way NE Apt 306	98155	Lake Forest Park	WA	275000	960	1	1	December  7, 2016
+3213 Harbor Ave SW Unit 313	98126	Seattle	WA	274000	715	1	1	December  7, 2016
+16416 34th Ave S	98188	Seatac	WA	271500	1410	3	1	December  7, 2016
+841 S 146th St	98168	Burien	WA	265000	1860	4	1	December  7, 2016
+2214 S 118th St	98168	Seattle	WA	250000	850	3	2	December  7, 2016
+12005 76th Ave S	98178	Seattle	WA	250000	1220	4	2	December  7, 2016
+1517 NE 147th St Apt 2D	98155	Shoreline	WA	243000	865	2	2	December  7, 2016
+1178 Harvard Ave E Ste 6	98102	Seattle	WA	2310000	2520	2	2+	December  6, 2016
+2519 35th Ave W	98199	Seattle	WA	669000	2220	3	1+	December  6, 2016
+10925 Oakwood Ave S	98178	Seattle	WA	639000	2973	4	3	December  6, 2016
+5414 NE 195th St	98155	Lake Forest Park	WA	600000	2480	4	2+	December  6, 2016
+1751 NE 136th St	98125	Seattle	WA	484000	1240	2	2	December  6, 2016
+11560 Stone Ave N Apt 103	98133	Seattle	WA	305000	1217	2	2	December  6, 2016
+6408 17th Ave NW	98107	Seattle	WA	728000	1880	2	1	December  6, 2016
+2326 W Dravus St	98199	Seattle	WA	585150	1385	3	2	December  6, 2016
+1926 Fairview Ave E Apt 312	98102	Seattle	WA	550000	1567	2	2	December  6, 2016
+3226 NE 87th St	98115	Seattle	WA	785000	2880	4	2	December  6, 2016
+699 John St Unit 507	98109	Seattle	WA	475000	846	1	1+	December  6, 2016
+515 Ward St	98109	Seattle	WA	794000	1552	3	2	December  6, 2016
+3805 NE 87th St	98115	Seattle	WA	675000	1830	4	2	December  6, 2016
+8042 S 114th St	98178	Seattle	WA	377000	1800	3	2+	December  6, 2016
+6728 4th Ave NW	98117	Seattle	WA	1100000	2783	4	2+	December  6, 2016
+1620 Taylor Ave N # B	98109	Seattle	WA	850000	1506	3	2	December  6, 2016
+11867 56th Pl S	98178	Seattle	WA	280299	1610	3	2	December  6, 2016
+3800 E Jefferson St	98122	Seattle	WA	550000			1	December  6, 2016
+3661 Phinney Ave N Apt 107	98103	Seattle	WA	300000	608	1	1	December  6, 2016
+14812 8th Ave NE	98155	Shoreline	WA	405000	910	3	1	December  6, 2016
+13804 29th Ave S	98168	Seatac	WA	330000	1830	5	2	December  6, 2016
+1239 E Newton St	98102	Seattle	WA	1050000	3340	4	2	December  6, 2016
+2016 NE Ravenna Blvd	98105	Seattle	WA	799000	2130	4	1+	December  6, 2016
+515 Ward St # B	98109	Seattle	WA	794000	830	3	3	December  6, 2016
+2511 SW 169th Pl	98166	Burien	WA	759000	3907	5	3+	December  6, 2016
+3822 NE 100th St	98125	Seattle	WA	730000	2680	4	2+	December  6, 2016
+4627 47th Ave S	98118	Seattle	WA	695000	1440	3	1	December  6, 2016
+5220 S 170th Ln	98188	Seatac	WA	670000	3670	5	4	December  6, 2016
+613 N 138th St	98133	Seattle	WA	640000	1350	4	4	December  6, 2016
+4505 39th Ave S	98118	Seattle	WA	562000	1440	2	1	December  6, 2016
+4027 Latona Ave NE	98105	Seattle	WA	557500	1660	2	2	December  6, 2016
+4023 Latona Ave NE	98105	Seattle	WA	557500	1370	2	2	December  6, 2016
+4263 S Holden St	98118	Seattle	WA	499000	18800			December  6, 2016
+10209 Rainier Ave S	98178	Seattle	WA	475000	1380	3	2	December  6, 2016
+2404 SW 151st St	98166	Burien	WA	456100	1340	4	1+	December  6, 2016
+2506 32nd Ave W Apt 4	98199	Seattle	WA	450000	1209	3	1	December  6, 2016
+501 Roy St Unit T105	98109	Seattle	WA	450000	798	1	1	December  6, 2016
+201 Galer St Apt 322	98109	Seattle	WA	440000	696	1	1	December  6, 2016
+6502 36th Ave SW	98126	Seattle	WA	410000	830	3	1	December  6, 2016
+7918 Wolcott Ave S	98118	Seattle	WA	400000	2300	3	2	December  6, 2016
+9807 28th Ave SW	98126	Seattle	WA	395000	1090	2	1	December  6, 2016
+6425 S 131st St	98178	Seattle	WA	390000	1980	4	3	December  6, 2016
+2144 S Pearl St	98108	Seattle	WA	380400	1210	2	2	December  6, 2016
+800 S 219th St Apt A3	98198	Des Moines	WA	286500	1323	2	2	December  6, 2016
+5054 43rd Ave S	98118	Seattle	WA	275000	830	3	1	December  6, 2016
+13550 37th Ave S # 11	98168	Tukwila	WA	140500	829	2	1	December  6, 2016
+707 N 130th St Apt B101	98133	Seattle	WA	107000	895	2	1	December  6, 2016
+3612 Burke Ave N	98103	Seattle	WA	1404000	3350	5	3	December  5, 2016
+3008 NW 68th St	98117	Seattle	WA	766000	2400	3	2	December  5, 2016
+10445 42nd Ave SW	98146	Seattle	WA	727000	2128	3	2	December  5, 2016
+3038 NE Blakeley St	98105	Seattle	WA	1407600	3067	4	3+	December  5, 2016
+15528 Meridian Ave N	98133	Shoreline	WA	432000	1410	5	3	December  5, 2016
+13503 Linden Ave N # 217C	98133	Seattle	WA	350000	1260	2	2	December  5, 2016
+910 6th Ave N	98109	Seattle	WA	920000	1879	3	2	December  5, 2016
+7729 20th Ave SW	98106	Seattle	WA	600000	2300	4	3	December  5, 2016
+2526 NE 82nd St	98115	Seattle	WA	575000	1346	4	2	December  5, 2016
+610 NW 47th St	98107	Seattle	WA	570000	730	2	1	December  5, 2016
+100 1st Ave S Apt 18	98104	Seattle	WA	805000	1223	1	1+	December  5, 2016
+829 19th Ave S # A	98144	Seattle	WA	560000	1770	3	2+	December  5, 2016
+829 19th Ave S	98144	Seattle	WA	560000	1831	3	2+	December  5, 2016
+2746 60th Ave SW Apt 2	98116	Seattle	WA	400000	1023	2	1+	December  5, 2016
+3213 Harbor Ave SW Unit 113	98126	Seattle	WA	262000	715	1	1	December  5, 2016
+700 N 160th St Apt A304	98133	Shoreline	WA	251000	862	2	2	December  5, 2016
+16018 42nd Ave S	98188	Tukwila	WA	275000	1800	4	2	December  5, 2016
+2047 13th Ave W	98119	Seattle	WA	935000				December  5, 2016
+Bothell Way	98155	Lake Forest Park	WA	90000				December  5, 2016
+5727 30th Ave NE	98105	Seattle	WA	1816773	5000	6	4+	December  5, 2016
+13535 8th Ave NW	98177	Seattle	WA	1875000	3240	4	3	December  5, 2016
+1301 Spring St Apt 21G	98104	Seattle	WA	1425000	1560	2	2	December  5, 2016
+800 NW 62nd St	98107	Seattle	WA	1425000	3890			December  5, 2016
+1105 NW Norcross Way	98177	Seattle	WA	1110000	3280	5	3	December  5, 2016
+5421 34th Ave NW	98107	Seattle	WA	824350	2200	4	3	December  5, 2016
+2445 34th Ave W	98199	Seattle	WA	750000	1660	4	1+	December  5, 2016
+3903 42nd Ave S	98118	Seattle	WA	727000	2030	3	2	December  5, 2016
+844 NE 59th St	98105	Seattle	WA	720000	1110	2	1	December  5, 2016
+3431 21st Ave W # B	98199	Seattle	WA	684000	1320	2	3	December  5, 2016
+7834 Lake City Way NE	98115	Seattle	WA	660000	850	2	2	December  5, 2016
+4414 50th Ave S	98118	Seattle	WA	575000	2560	3	2+	December  5, 2016
+2724 S Elmwood Pl	98144	Seattle	WA	532500	1470	3	2+	December  5, 2016
+12530 26th Ave NE Apt A	98125	Seattle	WA	418000	1320	3	2+	December  5, 2016
+9311 30th Ave SW	98126	Seattle	WA	385000	700	2	1	December  5, 2016
+2850 NW 73rd St	98117	Seattle	WA	290572	2090	3	1+	December  5, 2016
+25127 12th Ave S	98198	Des Moines	WA	278000	1060	3	2	December  5, 2016
+10813 26th Ave SW	98146	Seattle	WA	190000	770	2	1	December  5, 2016
+903 N 130th St Apt 202	98133	Seattle	WA	169500	703	1	1	December  5, 2016
+2521 38th Ave W	98199	Seattle	WA	2160000	4670	4	3	December  2, 2016
+7748 31st Ave NW	98117	Seattle	WA	1457500	3660	5	3+	December  2, 2016
+9008 9th Ave NW	98117	Seattle	WA	1100000	2700	4	2+	December  2, 2016
+180 McGraw Pl	98109	Seattle	WA	895000	1890	3	1+	December  2, 2016
+3422 28th Ave W	98199	Seattle	WA	714000	2640	3	2	December  2, 2016
+111 27th Ave S	98144	Seattle	WA	710000	2559	3	3	December  2, 2016
+12235 4th Ave NW	98177	Seattle	WA	646500	3130	5	3	December  2, 2016
+7137 35th Ave SW	98126	Seattle	WA	612500	2960	3	1+	December  2, 2016
+17231 Ambaum Blvd S	98148	Burien	WA	550000	3536	5	2+	December  2, 2016
+3911 4th Ave NE	98105	Seattle	WA	985000	2740	3	3	December  2, 2016
+5006 42nd Ave SW	98136	Seattle	WA	655000	2200	4	2	December  2, 2016
+1518 NW 87th St	98117	Seattle	WA	600000	1748	3	2	December  2, 2016
+2100 3rd Ave Apt 602	98121	Seattle	WA	555000	1323	2	2	December  2, 2016
+2165 N 161st Pl	98133	Shoreline	WA	575000	2720	4	3	December  2, 2016
+823 S 240th St	98198	Des Moines	WA	735000	3796	5	4	December  2, 2016
+734 25th Ave S	98144	Seattle	WA	729000	1818	3	2	December  2, 2016
+4008 NE 87th St	98115	Seattle	WA	718500	1440	3	2	December  2, 2016
+15220 Dayton Ave N	98133	Shoreline	WA	687800	2780	5	3	December  2, 2016
+19544 15th Ave NW	98177	Shoreline	WA	490000	1840	4	2	December  2, 2016
+114 W McGraw St	98119	Seattle	WA	950000	2190	3	3	December  2, 2016
+3709 Corliss Ave N	98103	Seattle	WA	740000	2960	4	2	December  2, 2016
+17507 North Park Pl N	98133	Shoreline	WA	599750	1919	3	2+	December  2, 2016
+1238 NW Blakely Ct	98177	Seattle	WA	1688880	2890	3	2+	December  2, 2016
+11537 34th Ave NE	98125	Seattle	WA	615000	2380	4	3	December  2, 2016
+625 S 240th St	98198	Des Moines	WA	825000				December  2, 2016

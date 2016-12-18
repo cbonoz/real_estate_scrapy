@@ -4,7 +4,7 @@ OUTPUT_FILE = 'sea_realtor_scrape.tsv'
 
 # Instance of a Sold House.
 class House:
-    HEADER = 'address\tzip\tprice\tsell_date\tsq_feet\tbeds\tbaths'
+    HEADER = 'address\tzip\tcity\tstate\tprice\tsq_feet\tbeds\tbaths\tsell_date'
 
     def convert_list_to_str(self, items):
         text = ''.join(items)
@@ -18,20 +18,16 @@ class House:
         except Exception as e:
             return ''
 
-
-    def parse_address_from_body(self, body):
-        addr = body.xpath('//span[contains(@class, "listing-street-address")]//text()').extract()
-        addr += [','] + body.xpath('//span[contains(@class, "listing-city")]//text()').extract()
-        addr += [','] + body.xpath('//span[contains(@class, "listing-region")]//text()').extract()
-        return addr
-
     def __str__(self):
-        return ('%s\t%s\t%s\t%s\t%s\t%s\t%s' 
-        % (self.address, self.zip, self.price, self.sell_date, self.sqft, self.beds, self.baths))
+        return ('%s\t%s\t%s\t%s\t%s\t%s\t%s\t%s\t%s'
+                % (self.address, self.zip, self.city, self.state, self.price,
+                   self.sqft, self.beds, self.baths, self.sell_date))
 
     def __init__(self, body=None):
         # body is the srp_body response.
-        self.address = self.parse_address_from_body(body)
+        self.address = body.xpath('//span[contains(@class, "listing-street-address")]//text()').extract()
+        self.city = body.xpath('//span[contains(@class, "listing-city")]//text()').extract()
+        self.state = body.xpath('//span[contains(@class, "listing-region")]//text()').extract()
         self.price = body.xpath('//div[contains(@class, "srp-item-price")]//text()').extract()
         self.zip = body.xpath('//span[contains(@class, "listing-postal")]//text()').extract()
         self.sell_date = body.xpath('//span[contains(@class, "srp-item-price-helper")]//text()').extract()
@@ -40,6 +36,8 @@ class House:
         self.sqft = body.xpath('//li[contains(@data-label, "property-meta-sqft")]//span[contains(@class, "data-value")]//text()').extract()
 
         self.address = self.convert_list_to_str(self.address)
+        self.city = self.convert_list_to_str(self.city)
+        self.state = self.convert_list_to_str(self.state)
         self.price = self.convert_list_to_str(self.price[0]) # Select only the price field.
         self.currency = self.price[0]
         self.price = self.parse_comma_int(self.price[1:])
@@ -53,7 +51,7 @@ class House:
 class RealtorSpider(scrapy.Spider):
     name = "realtor_spider"
     allowed_domains = ["realtor.com"]
-    MAX_PAGE = 5
+    MAX_PAGE = 100
     # start_urls = ['http://realtor.com/']
 
     def make_realtor_url(self, city, state, page):
@@ -68,7 +66,7 @@ class RealtorSpider(scrapy.Spider):
         with open(OUTPUT_FILE, 'w') as f:
             f.write(House.HEADER + "\n")
         for i, url in enumerate(urls):
-            print('Page %d' % i)
+            print('Page %d' % (i+1))
             yield scrapy.Request(url=url, callback=self.parse)
 
     def parse(self, response):
